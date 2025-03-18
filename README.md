@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto, desenvolvido para a Missão Prática do Nível 5, Mundo 2, tem como objetivo criar um servidor robusto utilizando Express e Mongoose, com acesso ao banco de dados MongoDB. [cite: 2, 3, 4] Além disso, o projeto explora a implementação de front-ends utilizando React JS, Next JS e Angular. [cite: 3, 6]
+Este projeto, desenvolvido para a Missão Prática do Nível 5, Mundo 2, tem como objetivo criar um servidor robusto utilizando Express e Mongoose, com acesso ao banco de dados MongoDB. Além disso, o projeto explora a implementação de front-ends utilizando React JS, Next JS e Angular.
 
 O objetivo principal é capacitar os desenvolvedores a lidar com diversas plataformas de desenvolvimento, atendendo às necessidades de um mercado de trabalho cada vez mais diversificado.
 
