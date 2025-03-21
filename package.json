@@ -1,5 +1,20 @@
 {
+  "name": "missao5_nivel2",
+  "version": "1.0.0",
+  "description": "Projeto para conexão com MongoDB usando Mongoose",
+  "main": "livro-servidor/bin/www",
+  "scripts": {
+    "start": "node livro-servidor/bin/www",
+    "dev": "nodemon livro-servidor/bin/www"
+  },
   "dependencies": {
-    "cors": "^2.8.5"
-  }
+    "cors": "^2.8.5",
+    "mongoose": "^8.12.1",
+    "moongose": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "author": "rafael ribeiro",
+  "license": "MIT"
 }
